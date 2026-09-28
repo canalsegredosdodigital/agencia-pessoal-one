@@ -1,0 +1,17 @@
+{
+  "name": "agencia-pessoal-one",
+  "displayName": "Agência Pessoal ONE",
+  "version": "2.1.0",
+  "description": "Uma Central e especialistas de IA licenciados para estratégia, copy, conteúdo, design, vídeo, web e análise.",
+  "author": {
+    "name": "Agência ONE",
+    "email": "contato@canalsegredosdodigital.com",
+    "url": "https://canalsegredosdodigital.com/agencia"
+  },
+  "homepage": "https://canalsegredosdodigital.com/agencia",
+  "repository": "https://github.com/canalsegredosdodigital/agencia-pessoal-one",
+  "icon": "./assets/agencia-one-plugin-icon.png",
+  "privacyPolicyUrl": "https://canalsegredosdodigital.com/agencia/privacidade.html",
+  "supportUrl": "https://canalsegredosdodigital.com/agencia/suporte.html",
+  "license": "LicenseRef-Proprietary"
+}

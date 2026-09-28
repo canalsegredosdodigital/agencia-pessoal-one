@@ -1,0 +1,14 @@
+{
+  "name": "agencia-one",
+  "description": "Plugins oficiais da Agência ONE.",
+  "owner": {
+    "name": "Agência ONE"
+  },
+  "plugins": [
+    {
+      "name": "agencia-pessoal-one",
+      "source": "./",
+      "description": "Sua agência pessoal de especialistas de IA para negócios."
+    }
+  ]
+}

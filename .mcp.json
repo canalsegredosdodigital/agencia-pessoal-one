@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agencia_pessoal_one": {
+      "type": "http",
+      "url": "https://canalsegredosdodigital.com/api/agencia/mcp"
+    }
+  }
+}
