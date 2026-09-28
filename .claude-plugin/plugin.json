@@ -13,5 +13,7 @@
   "icon": "./assets/agencia-one-plugin-icon.png",
   "privacyPolicyUrl": "https://canalsegredosdodigital.com/agencia/privacidade.html",
   "supportUrl": "https://canalsegredosdodigital.com/agencia/suporte.html",
+  "documentationUrl": "https://canalsegredosdodigital.com/agencia/acesso.html",
+  "termsOfServiceUrl": "https://canalsegredosdodigital.com/agencia/termos.html",
   "license": "LicenseRef-Proprietary"
 }
