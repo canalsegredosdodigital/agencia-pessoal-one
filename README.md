@@ -6,7 +6,7 @@ A Agência Pessoal ONE reúne uma Central coordenadora e especialistas em estrat
 
 Depois da instalação, o Claude conecta-se ao endpoint seguro `https://canalsegredosdodigital.com/api/agencia/mcp`. Na primeira utilização, o cliente autentica no navegador com o mesmo e-mail usado na compra e um código temporário. A licença é pessoal, limitada a dois computadores e pode ser suspensa após cancelamento, reembolso, fraude ou chargeback.
 
-O plugin envia ao serviço somente as chamadas necessárias para verificar a licença e carregar as instruções do especialista escolhido. Ele não inclui nem transmite projetos privados, sessões, cookies, chaves, bancos, históricos ou memórias da Agência ONE. O cliente deve revisar qualquer conteúdo antes de publicar, enviar, excluir ou investir dinheiro.
+O plugin envia ao serviço somente as chamadas necessárias para verificar a licença e carregar as instruções do especialista escolhido. Para autenticação e controle de acesso, o serviço trata o e-mail da compra, a situação da licença e metadados mínimos do dispositivo conectado; códigos, sessões e tokens são armazenados somente em formato criptograficamente resumido. O plugin não transmite prompts, conversas, arquivos de projeto, sessões, cookies, chaves, bancos, históricos ou memórias privadas do usuário ou da Agência ONE. O cliente deve revisar qualquer conteúdo antes de publicar, enviar, excluir ou investir dinheiro.
 
 ## Uso
 
